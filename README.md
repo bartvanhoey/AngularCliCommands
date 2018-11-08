@@ -17,6 +17,7 @@
 | `ng generate component component-name`         | `ng g c component-name` | Generate a new component
 | `ng generate component component-name --flat`  |                         | Generate a new component (in root component)
 | `ng serve`                                     |                         | Launch Application
+| `ng serve --base-href /emp/`                   |                         | Launch Application with Base Href
 | `ng serve --open`                              |                         | Launch Application and Open Browser
 | `ng genearate pipe pipe-name`                  | `ng g p pipe-name`      | Generate Pipe
 | `ng genearate directive directive-name`        | `ng g d directive-name` | Generate Directive
